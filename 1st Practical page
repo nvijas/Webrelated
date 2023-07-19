@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>R Version of HTML
+  <style>h1{
+  font-size: 30px;
+  font-weight: bold;
+  }
+  h2{
+  font-size: 100px;
+  font-weight: bold;
+  font-family: Arial(80);
+  }
+  </style>
+  </head>
+  <body>
+    <div>
+      <h1>First Section</h1>
+      <h2>Second Section</h2>
+      
+    </div>
+    <div>
+      <img src="" alt="">
+    </div>
+  </body>
+</html>
